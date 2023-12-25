@@ -12,9 +12,9 @@ config.yml файл с конфигурацией. По умолчанию пр�
 
 Для работы используются дополнительные библиотеки
 
-  pandas
-  pyodbc
-  pyxlsb
-  pyyaml
-  tkcalendar
-  xlsxwriter
+* pandas
+* pyodbc
+* pyxlsb
+* pyyaml
+* tkcalendar
+* * xlsxwriter
