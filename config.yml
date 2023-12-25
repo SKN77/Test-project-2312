@@ -1,10 +1,10 @@
 sql_server:
  connection_parameters:
-  'db_driver': '{SQL Server}'
-  'db_server': 'localhost'
-  'db_name': 'test_task'
+  'db_driver': '{SQL Server}' 
+  'db_server': 'localhost' # адрес SQL сервера
+  'db_name': 'test_task' # имя рабочей БД
  default_parameters:
-  schema: ch
-  import_data_table: raw_data
-  raw_data_procedure: get_raw_data
-  report_data_procedure: get_report_data
+  schema: ch # название схемы по умолчанию
+  import_data_table: raw_data # имя таблицы с данными
+  raw_data_procedure: get_raw_data # имя процедуры выгрузки сырых данных по умолчанию
+  report_data_procedure: get_report_data # имя процедуры выгрузки отчета по умолчанию
