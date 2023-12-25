@@ -17,4 +17,4 @@ config.yml файл с конфигурацией. По умолчанию пр�
 * pyxlsb
 * pyyaml
 * tkcalendar
-* * xlsxwriter
+* xlsxwriter
