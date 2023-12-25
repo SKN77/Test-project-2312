@@ -1,6 +1,6 @@
 # Test project 2312
 
-MS SQL and Python test task
+MS SQL and Python тестовое задание
 
 Test_project_2312.py основной скрипт с пользовательским интерфейсом
 
